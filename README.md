@@ -10,7 +10,7 @@
 
 ## 🖥️ Tecnologías Utilizadas:
 
-- C
+- Lenguaje programación C
 - Visual Studio Code
 
 ## 📦 Requisitos:
